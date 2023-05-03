@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "nodeVersion": "14.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.1",
+    "libraryName": "teste-slider",
+    "libraryId": "fc442916-1d54-42be-bb26-b99535e0e751",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "teste-slider",
+    "solutionShortDescription": "teste-slider description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
